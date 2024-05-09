@@ -1,0 +1,7 @@
+disabled_rules:
+  - line_length # line_lengthルールを無効にする。行の長さについての制約がなくなる
+  - variable_name
+  - type_body_length
+opt_in_rules:
+  - nesting
+
